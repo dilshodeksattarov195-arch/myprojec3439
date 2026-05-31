@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheuerify",
+        "uuid": 28124142,
+        "checksum": "25zlqe"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
